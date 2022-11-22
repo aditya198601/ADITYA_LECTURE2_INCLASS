@@ -1,0 +1,28 @@
+table,tr,td,th{
+
+    border: 10px solid black;
+    border-collapse: collapse;
+
+
+}
+
+table{
+
+    width:100%;
+}
+
+th{
+
+    background-color: blue;
+    padding:15px;
+}
+
+td{
+
+    background-color: brown;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right:30px;
+
+}
